@@ -331,7 +331,7 @@ Replaces most textures with higher resoluton AI upscales. <br>
 ### Ys VIII: Lacrimosa of Dana
 - [HQ Texture Pack Fixes](https://www.nexusmods.com/ysviii/mods/24) <br>
 
-Fixes the infamous line that appears on Adol and Laxia's faces while using the HQ texture pack. <br>
+Fixes vertical line that appears on Adol and Laxia's faces when using the HQ texture pack. <br>
 
 <br>
 
