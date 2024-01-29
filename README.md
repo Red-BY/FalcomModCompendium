@@ -19,7 +19,7 @@ Adds full Japanese voice acting to the game which was back ported from official 
 
 - [Japanese Battle Voices](https://mega.nz/file/7FI3FJ6S#7hciKJZEUreR5Gp-D_AeQAuEyCN51g7D18PE9nYDhew) <br>
 
-Adds Japanese battle voices to the game, this is meant to be used alongside the Evolution Voices Mod as the game only supports English battle voices out of the box. <br>
+Adds Japanese battle voices to the game, this is meant to be used alongside the Evolution Voices mod as the game only supports English battle voices out of the box. <br>
 After installation, you'll be able to switch between English and Japanese voices from the in-game Options menu. <br>
 >🔧 Extract contents of the archive into your game directory and replace when asked.<br>
 
