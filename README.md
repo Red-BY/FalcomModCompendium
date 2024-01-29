@@ -1,7 +1,9 @@
 # Falcom Games Mod Compendium
 Compendium of modifications for Trails and Ys games. All mods listed are made for official English PC releases by XSEED and NISA.
 
-
+<br>
+<br>
+<br>
 
 ## ![Trails Logo](https://github.com/Red-BY/FalcomModCompendium/blob/main/Trails%20Logo.png)
 ### Trails in the Sky FC *(Sora no Kiseki FC)*
@@ -15,6 +17,8 @@ Compendium of modifications for Trails and Ys games. All mods listed are made fo
 ### Trails of Cold Steel III *(Sen no Kiseki III)*
 ### Trails of Cold Steel IV *(Sen no Kiseki IV -THE END OF SAGA-)*
 
-
+<br>
+<br>
+<br>
 
 ## ![Ys Logo](https://github.com/Red-BY/FalcomModCompendium/blob/main/Ys%20Logo.png)
