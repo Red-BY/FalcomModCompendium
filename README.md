@@ -19,7 +19,8 @@ Adds full Japanese voice acting to the game which was back ported from official 
 
 - [Japanese Battle Voices](https://mega.nz/file/7FI3FJ6S#7hciKJZEUreR5Gp-D_AeQAuEyCN51g7D18PE9nYDhew) <br>
 
-Adds Japanese battle voices to the game, this is meant to be used alongside the Evolution Voices Mod as the game only supports English battle voices out of the box. After installation, you'll be able to switch between English and Japanese voices in the in-game Options menu. <br>
+Adds Japanese battle voices to the game, this is meant to be used alongside the Evolution Voices Mod as the game only supports English battle voices out of the box. <br>
+After installation, you'll be able to switch between English and Japanese voices from the in-game Options menu. <br>
 >📝 Extract contents of the archive into your game directory and replace when asked.<br>
 
 <br>
@@ -53,6 +54,13 @@ Replaces event visuals that appear during certain story segments as well as the 
 Replaces intro logo, opening and ending cinematics with the ones from Evolution re-release. <br>
 >📝 You can use the included .bat files to quickly install the mods. <br>
 Alternatively, rename the downloaded files by removing "EVO" from the end of the file name then copy the files into your game directory and replace when asked. <br>
+
+<br>
+
+- [Evolution Soundtrack]() <br>
+
+Replaces music tracks with the ones from Evolution re-release. <br>
+After installation, you'll be able to switch between original and Evolution soundtracks from the in-game Options menu. <br>
 
 <br>
 
