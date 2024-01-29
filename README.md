@@ -6,7 +6,7 @@ Compendium of modifications for Trails and Ys games developed by Nihon Falcom. A
 
 Emoticon Description: <br>
 🔧 - Installation Instructions. If not provided then the mod likely has instructions on its mod page. <br>
-🚫 - Mod file is unavailable at the moment. It could be because of copyright claim or other reasons. If you have access to those files, feel free to contact me so the link can be restored. <br>
+🚫 - Mod file is unavailable at the moment. It could be because of copyright claims or other reasons. If you have access to those files, feel free to contact me so the link can be restored. <br>
 🚧 - Mod is still a work in progress. <br>
 
 <br>
