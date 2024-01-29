@@ -14,8 +14,8 @@ Compendium of modifications for Trails and Ys games. All mods listed are made fo
 ### Trails of Cold Steel II *(Sen no Kiseki II)*
 ### Trails of Cold Steel III *(Sen no Kiseki III)*
 ### Trails of Cold Steel IV *(Sen no Kiseki IV -THE END OF SAGA-)*
-<br/>
-<br/>
-<br/>
+
+
+
 ## YS
 ## ![Ys Logo](https://github.com/Red-BY/FalcomModCompendium/blob/main/Ys%20Logo.png)
