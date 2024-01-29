@@ -28,7 +28,7 @@ After installation, you'll be able to switch between English and Japanese voices
 - [Evolution Portraits](https://www.mediafire.com/file/tbsdtthy5yx57ik/Nya-go+Version+1.rar) <br>
 
 Replaces character dialogue and battle portraits with the ones from Evolution re-release. <br>
-Note that Evolution portraits have less variety of expressions as they were cut down in the Evolution re-release which compensated for it with animated mouth and eye movements (This feature is exclusive to Evolution). <br>
+Note that Evolution portraits have less variety of expressions as they were cut down in the Evolution re-release which compensated for it with animated mouth and eye movements (This feature is exclusive to Evolution and cannot be modded into PC release). <br>
 >[Visual Comparison](https://www.reddit.com/r/Falcom/comments/m21k28/couldnt_find_a_proper_sky_evolution_portrait/) <br>
 
 >🔧 First get the files from "BATTLE" and "DIALOGUE BOX" folders, then you'll have to rename each file by removing "EVO" from the end of the file name. After that copy the files into your game directory and replace when asked. <br>
