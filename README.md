@@ -11,11 +11,9 @@ Compendium of modifications for Trails and Ys games. All mods listed are made fo
 
 Adds full Japanese voice acting to the game which was back ported from official Evolution re-release for PlayStation Vita. <br>
 
-[Automatic Installer](https://github.com/chyyran/skyinstaller) <br>
-**OR** <br>
-Manual Install: [SoraVoice(Lite)](https://github.com/ZhenjianYang/SoraVoice/releases/tag/20230823) + [Voice Scripts](https://github.com/ZhenjianYang/SoraVoiceScripts/releases/) + [Voice Files](https://mega.nz/file/z9hkVTwa#D7iz6er2jcKiQdO5P81x0_4NtoGoihjO4CR242Vc_fo) <br>
->📝 [Instructions](https://github.com/ZhenjianYang/SoraVoice/tree/20230823) <br>
-Since you already have the voice files, you can skip the first four steps in the Voice Files part.
+> - [Automatic Installer](https://github.com/chyyran/skyinstaller) <br>
+> - Manual Install: [SoraVoice(Lite)](https://github.com/ZhenjianYang/SoraVoice/releases/tag/20230823) + [Voice Scripts](https://github.com/ZhenjianYang/SoraVoiceScripts/releases/) + [Voice Files](https://mega.nz/file/z9hkVTwa#D7iz6er2jcKiQdO5P81x0_4NtoGoihjO4CR242Vc_fo) <br>
+📝 [Full Instructions](https://github.com/ZhenjianYang/SoraVoice/tree/20230823). Since you already have the voice files, you can skip the first four steps in the Voice Files part. <br>
 
 <br>
 
