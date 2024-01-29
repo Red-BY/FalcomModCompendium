@@ -8,6 +8,7 @@ Compendium of modifications for Trails and Ys games. All mods listed are made fo
 ## ![Trails Logo](https://github.com/Red-BY/FalcomModCompendium/blob/main/Trails%20Logo.png)
 ### Trails in the Sky FC *(Sora no Kiseki FC)*
 - Evolution Voices <br>
+
 Adds full Japanese voice acting to the game which was back ported from official Evolution re-release for PlayStation Vita. <br>
 > [Automatic Installer](https://github.com/chyyran/skyinstaller) <br>
 
