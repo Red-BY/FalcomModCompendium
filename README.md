@@ -89,12 +89,12 @@ A fan project which aims to add full English voice acting to the game. <br>
 Adds full Japanese voice acting to the game which was back ported from official Evolution re-release for PlayStation Vita. <br>
 
 > - [Automatic Installer](https://github.com/chyyran/skyinstaller) <br>
-> - Manual Install: [SoraVoice(Lite)](https://github.com/ZhenjianYang/SoraVoice/releases/tag/20230823) + [Voice Scripts](https://github.com/ZhenjianYang/SoraVoiceScripts/releases/) + [Voice Files](https://mega.nz/file/z9hkVTwa#D7iz6er2jcKiQdO5P81x0_4NtoGoihjO4CR242Vc_fo) <br>
+> - Manual Install: [SoraVoice(Lite)](https://github.com/ZhenjianYang/SoraVoice/releases/tag/20230823) + [Voice Scripts](https://github.com/ZhenjianYang/SoraVoiceScripts/releases/) + [Voice Files](https://mega.nz/file/uk4XkYaB#zV9nSGMFBbG77fSXdmP2DFFBKdqrNhnAiIeCxrrqNHk) <br>
 🔧 [Full Instructions](https://github.com/ZhenjianYang/SoraVoice/tree/20230823). Since you already have the voice files, you can skip the first four steps in the Voice Files part. <br>
 
 <br>
 
-- [Japanese Battle Voices](https://mega.nz/file/7FI3FJ6S#7hciKJZEUreR5Gp-D_AeQAuEyCN51g7D18PE9nYDhew) <br>
+- [Japanese Battle Voices](https://mega.nz/file/2Vw20CjD#T5Qt_mEOTZ_mbqar0cOysQTb3kJRh5vEyGVwo-jy0KA) <br>
 
 Adds Japanese battle voices to the game, this is meant to be used alongside the Evolution Voices mod as the game only supports English battle voices out of the box. <br>
 After installation, you'll be able to switch between English and Japanese voices from the in-game Options menu. <br>
@@ -112,21 +112,21 @@ Note that Evolution portraits have less variety of expressions as they were cut 
 
 <br>
 
-- [Evolution Status Images](https://www.mediafire.com/folder/9u1smlshj97bp/STATUS_IMAGE_FC) <br>
+- [Evolution Status Images](https://www.mediafire.com/folder/l9b263b82x3n4/STATUS_IMAGE_SC) <br>
 
 Replaces status images of characters in the main menu with the ones from Evolution re-release. <br>
 >🔧 Rename each downloaded file by removing "EVO" from the end of the file name then copy the files into your game directory and replace when asked. <br>
 
 <br>
 
-- [Evolution Event Visuals](https://www.mediafire.com/folder/n5b4cqc3655sv/Event_Visual_FC) <br>
+- [Evolution Event Visuals](https://www.mediafire.com/folder/ujo4o4ooe7wvg/Event_Visual_SC_Version_1) <br>
 
 Replaces event visuals that appear during certain story segments as well as the in-game world map with the ones from Evolution re-release. <br>
 >🔧 Rename each downloaded file by removing "EVO" from the end of the file name then copy the files into your game directory and replace when asked. <br>
 
 <br>
 
-- [Evolution Movies](https://www.mediafire.com/folder/hp7tla4e9z7h4/FC_EVO_MOVIES) <br>
+- [Evolution Movies](https://www.mediafire.com/folder/burn3sl761le0/SC_EVO_MOVIES) <br>
 
 Replaces intro logo, opening and ending cinematics with the ones from Evolution re-release. <br>
 >🔧 You can use the included .bat files to quickly install the mods. <br>
