@@ -44,14 +44,14 @@ Note that Evolution portraits have less variety of expressions as they were cut 
 - [Evolution Status Images](https://www.mediafire.com/folder/9u1smlshj97bp/STATUS_IMAGE_FC) <br>
 
 Replaces status images of characters in the main menu with the ones from Evolution re-release. <br>
->🔧 Rename the downloaded files by removing "EVO" from the end of the file name then copy the files into your game directory and replace when asked. <br>
+>🔧 Rename each downloaded file by removing "EVO" from the end of the file name then copy the files into your game directory and replace when asked. <br>
 
 <br>
 
 - [Evolution Event Visuals](https://www.mediafire.com/folder/n5b4cqc3655sv/Event_Visual_FC) <br>
 
 Replaces event visuals that appear during certain story segments as well as the in-game world map with the ones from Evolution re-release. <br>
->🔧 Rename the downloaded files by removing "EVO" from the end of the file name then copy the files into your game directory and replace when asked. <br>
+>🔧 Rename each downloaded file by removing "EVO" from the end of the file name then copy the files into your game directory and replace when asked. <br>
 
 <br>
 
@@ -59,7 +59,7 @@ Replaces event visuals that appear during certain story segments as well as the 
 
 Replaces intro logo, opening and ending cinematics with the ones from Evolution re-release. <br>
 >🔧 You can use the included .bat files to quickly install the mods. <br>
-Alternatively, rename the downloaded files by removing "EVO" from the end of the file name then copy the files into your game directory and replace when asked. <br>
+Alternatively, rename each downloaded .dat and .avi file by removing "EVO" from the end of the file name then copy those files into your game directory and replace when asked. <br>
 
 <br>
 
@@ -72,7 +72,7 @@ After installation, you'll be able to switch between original and Evolution soun
 
 - [Super Arrange Soundtrack]() 🚫 <br>
 
-Replaces certain music tracks with the ones from Super Arrange albums of Trail in the Sky. <br>
+Replaces certain music tracks with the ones from Super Arrange albums of Trails in the Sky Soundtrack. <br>
 After installation, you'll be able to switch between original and Evolution soundtracks from the in-game Options menu. <br>
 
 <br>
