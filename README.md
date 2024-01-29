@@ -148,12 +148,6 @@ After installation, you'll be able to switch between original and Evolution soun
 
 <br>
 
-- [Trails in the Dub](https://trailsinthedub.wixsite.com/dubbed) 🚧 <br>
-
-A fan project which aims to add full English voice acting to the game. <br>
-
-<br>
-
 ### Trails in the Sky the 3rd *(Sora no Kiseki the 3rd)*
 - Evolution Voices <br>
 
@@ -216,12 +210,6 @@ After installation, you'll be able to switch between original and Evolution soun
 
 Replaces certain music tracks with the ones from Super Arrange albums of Trails in the Sky Soundtrack. <br>
 After installation, you'll be able to switch between original and Evolution soundtracks from the in-game Options menu. <br>
-
-<br>
-
-- [Trails in the Dub](https://trailsinthedub.wixsite.com/dubbed) 🚧 <br>
-
-A fan project which aims to add full English voice acting to the game. <br>
 
 <br>
 
