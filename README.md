@@ -10,9 +10,9 @@ Compendium of modifications for Trails and Ys games. All mods listed are made fo
 - Evolution Voices
 
 Adds full Japanese voice acting to the game from official Evolution re-release for PlayStation Vita. <br>
-Automatic Installer <br>
-OR <br>
-Manual Install ([SoraVoice(Lite)](https://github.com/ZhenjianYang/SoraVoice/releases/tag/20230823) + Voice Scripts + Voice Files) <br>
+> [Automatic Installer](https://github.com/chyyran/skyinstaller) <br>
+**OR** <br>
+Manual Install ( [SoraVoice(Lite)](https://github.com/ZhenjianYang/SoraVoice/releases/tag/20230823) + [Voice Scripts](https://github.com/ZhenjianYang/SoraVoiceScripts/releases/) + [Voice Files](https://mega.nz/file/z9hkVTwa#D7iz6er2jcKiQdO5P81x0_4NtoGoihjO4CR242Vc_fo) ) <br>
 
 - 
 ### Trails in the Sky SC *(Sora no Kiseki SC)*
