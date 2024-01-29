@@ -3,7 +3,7 @@ Compendium of modifications for Trails and Ys games. All mods listed are made fo
 <br/>
 <br/>
 <br/>
-## ![Trails Logo](https://github.com/Red-BY/FalcomModCompendium/assets/158032133/7a172ea4-9dd0-4142-b038-2b8334ed93f0)
+## ![Trails Logo](https://github.com/Red-BY/FalcomModCompendium/blob/main/Trails%20Logo.png)
 ### Trails in the Sky FC *(Sora no Kiseki FC)*
 * Evolution Voices
 ### Trails in the Sky SC *(Sora no Kiseki SC)*
@@ -17,4 +17,4 @@ Compendium of modifications for Trails and Ys games. All mods listed are made fo
 <br/>
 <br/>
 <br/>
-![Ys Logo](https://github.com/Red-BY/FalcomModCompendium/assets/158032133/3cf1d7aa-9cb4-4f01-950c-49f1340af488)
+![Ys Logo](https://github.com/Red-BY/FalcomModCompendium/blob/main/Ys%20Logo.png)
