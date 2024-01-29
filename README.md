@@ -71,6 +71,12 @@ After installation, you'll be able to switch between original and Evolution soun
 
 <br>
 
+- [Trails in the Dub](https://trailsinthedub.wixsite.com/dubbed) 🚧 <br>
+
+A fan project which aims to add full English voice acting to the game. <br>
+
+<br>
+
 ### Trails in the Sky SC *(Sora no Kiseki SC)*
 ### Trails in the Sky the 3rd *(Sora no Kiseki the 3rd)*
 ### Trails from Zero *(Zero no Kiseki)*
