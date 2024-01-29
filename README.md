@@ -214,6 +214,24 @@ After installation, you'll be able to switch between original and Evolution soun
 <br>
 
 ### Trails from Zero *(Zero no Kiseki)*
+- [Inevitable Zero](https://github.com/Kyuuhachi/Inevitable-Zero) <br>
+
+Adds PS Vita-exclusive quests from Evolution re-release to the PC version. <br>
+
+<br>
+
+- [More Portraits in Zero](https://github.com/shinkiseki/MorePortraitsInZero) <br>
+
+Gives portraits to characters that didn't have them before. Portraits are sourced from various Trails games. <br>
+
+<br>
+
+- [Evolution Soundtrack](https://www.nexusmods.com/tlohtrailsfromzero/mods/1) <br>
+
+Replaces most music tracks with the ones from Evolution re-release. <br>
+
+<br>
+
 ### Trails to Azure *(Ao no Kiseki)*
 ### Trails of Cold Steel *(Sen no Kiseki)*
 ### Trails of Cold Steel II *(Sen no Kiseki II)*
