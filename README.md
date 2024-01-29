@@ -325,7 +325,7 @@ Replaces most texture with higher resoluton AI upscales. <br>
 <br>
 
 ### Ys VIII: Lacrimosa of Dana
-- [High Quality Music](https://www.nexusmods.com/ysviii/mods/24) <br>
+- [HQ Texture Pack Fixes](https://www.nexusmods.com/ysviii/mods/24) <br>
 
 Fixes the infamous line that appears on Adol and Laxia's faces while using the HQ texture pack. <br>
 
@@ -340,3 +340,10 @@ Replaces the low-quality music files with CD-quality ones. <br>
 - [Various miscellaneous mods on Nexus](https://www.nexusmods.com/ysviii) <br>
 
 ### Ys IX: Monstrum Nox
+- [Custom OST Mod](https://www.youtube.com/watch?v=H5ts1M3XEqk)
+
+Remixes the soundtrack to match older Ys games by introducing several new songs by various high-quality artists and giving certain scenes more contextual power. <br>
+
+<br>
+
+- [Various miscellaneous mods on Nexus](https://www.nexusmods.com/ysix) <br>
