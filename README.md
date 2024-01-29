@@ -317,7 +317,7 @@ Replaces English voices with original Japanese. <br>
 
 - [HD Texture Pack](https://www.neogaf.com/threads/ys-seven-pc-ot-trails-in-the-flash-guard.1425401/page-3#post-248235818) <br>
 
-Texture pack tahat includes HD environmental textures from Chinese Joyland port of the game and some custom HD textures. <br>
+Texture pack that includes HD environmental textures from Chinese Joyland port of the game and some custom HD textures. <br>
 
 <br>
 
