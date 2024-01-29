@@ -59,7 +59,14 @@ Alternatively, rename the downloaded files by removing "EVO" from the end of the
 
 - [Evolution Soundtrack]() <br>
 
-Replaces music tracks with the ones from Evolution re-release. <br>
+Replaces all music tracks with the ones from Evolution re-release. <br>
+After installation, you'll be able to switch between original and Evolution soundtracks from the in-game Options menu. <br>
+
+<br>
+
+- [Super Arrange Soundtrack]() <br>
+
+Replaces certain music tracks with the ones from Super Arrange albums of Trail in the Sky. <br>
 After installation, you'll be able to switch between original and Evolution soundtracks from the in-game Options menu. <br>
 
 <br>
