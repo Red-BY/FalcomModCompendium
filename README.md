@@ -340,6 +340,12 @@ Replaces the low-quality music files with CD-quality ones. <br>
 - [Various miscellaneous mods on Nexus](https://www.nexusmods.com/ysviii) <br>
 
 ### Ys IX: Monstrum Nox
+- [High Quality Music](https://www.nexusmods.com/ysix/mods/10) <br>
+
+Replaces the music files with higher quality ones from official soundtrack. <br>
+
+<br>
+
 - [Custom OST Mod](https://www.youtube.com/watch?v=H5ts1M3XEqk)
 
 Remixes the soundtrack to match older Ys games by introducing several new songs by various high-quality artists and giving certain scenes more contextual power. <br>
