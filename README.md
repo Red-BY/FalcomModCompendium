@@ -128,7 +128,7 @@ Replaces event visuals that appear during certain story segments as well as the 
 
 - [Evolution Movies](https://www.mediafire.com/folder/burn3sl761le0/SC_EVO_MOVIES) <br>
 
-Replaces intro logo, opening and ending cinematics with the ones from Evolution re-release. <br>
+Replaces intro logo, opening, ending and cutscene cinematics with the ones from Evolution re-release. <br>
 >🔧 You can use the included .bat files to quickly install the mods. <br>
 Alternatively, rename each downloaded .dat and .avi file by removing "EVO" from the end of the file name then copy those files into your game directory and replace when asked. <br>
 
@@ -193,7 +193,7 @@ Replaces event visuals that appear during certain story segments as well as the 
 
 - [Evolution Movies](https://www.mediafire.com/folder/hp7tla4e9z7h4/FC_EVO_MOVIES) <br>
 
-Replaces intro logo, opening and ending cinematics with the ones from Evolution re-release. <br>
+Replaces intro logo, opening, ending and cutscene cinematics with the ones from Evolution re-release. <br>
 >🔧 You can use the included .bat files to quickly install the mods. <br>
 Alternatively, rename each downloaded .dat and .avi file by removing "EVO" from the end of the file name then copy those files into your game directory and replace when asked. <br>
 
