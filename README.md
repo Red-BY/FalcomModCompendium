@@ -22,7 +22,7 @@ Since you already have the voice files, you can skip the first four steps in Voi
 - [Japanese Battle Voices](https://mega.nz/file/7FI3FJ6S#7hciKJZEUreR5Gp-D_AeQAuEyCN51g7D18PE9nYDhew) <br>
 
 Adds Japanese battle voices to the game, this is meant to be used along side the Evolution Voices Mod as the game only supports English battle voices out of the box. After installation you'll be able to swith between English and Japanese voices in ingame Options menu. <br>
-📝 Extract contents of the archive into your game directory and replace files if asked.<br>
+📝 Extract contents of the archive into your game directory and replace when asked.<br>
 
 <br>
 
@@ -31,6 +31,8 @@ Adds Japanese battle voices to the game, this is meant to be used along side the
 Replaces character dialogue and battle portraits with the ones from Evolution re-release. <br>
 Note that Evolution portraits have less variety of expressions as they were cut down in Evolution re-release which compensated for it with animated mouth and eye movements (This feature is exclusive to Evolution). <br>
 > [Visual Comparison](https://www.reddit.com/r/Falcom/comments/m21k28/couldnt_find_a_proper_sky_evolution_portrait/) <br>
+
+📝 First get the files from "BATTLE" and "DIALOGUE BOX" folders, then you'll have to rename each file by removing "EVO" from the end of the file name. After that copy the files into your game directory and replace when asked.
 
 <br>
 
