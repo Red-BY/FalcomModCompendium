@@ -21,8 +21,12 @@ Adds Japanese battle voices to the game, this is meant to be used along side the
 - [Evolution Portraits](https://www.mediafire.com/file/tbsdtthy5yx57ik/Nya-go+Version+1.rar) <br>
 
 Replaces character dialogue and battle portraits with the ones from Evolution re-release. <br>
-Note that Evolution portraits have less variety of expressions as they were cut down in Evolution re-release which compensated for it with animated mounth and eye movements (This feature is exclusive to Evolution).
-[Visual Comparison](https://www.reddit.com/r/Falcom/comments/m21k28/couldnt_find_a_proper_sky_evolution_portrait/)
+Note that Evolution portraits have less variety of expressions as they were cut down in Evolution re-release which compensated for it with animated mouth and eye movements (This feature is exclusive to Evolution). <br>
+> [Visual Comparison](https://www.reddit.com/r/Falcom/comments/m21k28/couldnt_find_a_proper_sky_evolution_portrait/) <br>
+
+- [Evolution Event Visuals](https://www.mediafire.com/folder/n5b4cqc3655sv/Event_Visual_FC) <br>
+
+Replaces event visuals which appear during certain story segments and the world map with the ones from Evolution re-release.
 
 - 
 ### Trails in the Sky SC *(Sora no Kiseki SC)*
