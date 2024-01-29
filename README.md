@@ -252,7 +252,7 @@ Replaces most music tracks with the ones from Evolution re-release. <br>
 <br>
 
 ### Trails of Cold Steel *(Sen no Kiseki)*
-- [SenPatcher](https://www.nexusmods.com/tlohtrailstoazure/mods/1) <br>
+- [SenPatcher](https://github.com/AdmiralCurtiss/SenPatcher) <br>
 
 A tool for Cold Steel games that patches them to fix numerous bugs and script issues, remove forced animation skip in Turbo mode and can do many other great things. Allows full customization so you can only install the feature that you want. Check the mod page for more details. <br>
 
@@ -265,8 +265,31 @@ A fantastic Trails of Cold Steel texture pack that aims to improve UI, battle ef
 <br>
 
 ### Trails of Cold Steel II *(Sen no Kiseki II)*
+- [SenPatcher](https://github.com/AdmiralCurtiss/SenPatcher) <br>
+
+A tool for Cold Steel games that patches them to fix numerous bugs and script issues, remove forced animation skip in Turbo mode and can do many other great things. Allows full customization so you can only install the feature that you want. Check the mod page for more details. <br>
+
+<br>
+
+- [HD Texture Pack](https://steamcommunity.com/app/748490/discussions/0/2860219962081641200/) <br>
+
+A fantastic Trails of Cold Steel II texture pack that aims to improve UI, battle effects, and eye textures to bring it more in line with a modern PC game. <br>
+
+<br>
+
 ### Trails of Cold Steel III *(Sen no Kiseki III)*
+- [SenPatcher](https://github.com/AdmiralCurtiss/SenPatcher) <br>
+
+A tool for Cold Steel games that patches them to fix numerous bugs and script issues, remove forced animation skip in Turbo mode and can do many other great things. Allows full customization so you can only install the feature that you want. Check the mod page for more details. <br>
+
+<br>
+
 ### Trails of Cold Steel IV *(Sen no Kiseki IV -THE END OF SAGA-)*
+- [SenPatcher](https://github.com/AdmiralCurtiss/SenPatcher) <br>
+
+A tool for Cold Steel games that patches them to fix numerous bugs and script issues, remove forced animation skip in Turbo mode and can do many other great things. Allows full customization so you can only install the feature that you want. Check the mod page for more details. <br>
+
+<br>
 
 <br>
 <br>
