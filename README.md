@@ -1,6 +1,6 @@
 # Falcom Games Mod Compendium
 Compendium of modifications for Trails and Ys games developed by Nihon Falcom. All mods listed are made for official English PC releases by XSEED and NISA. <br>
-> Reddit Thread - If you want to post some feedback. <br>
+> [Reddit Thread](https://www.reddit.com/r/Falcom/comments/1ae2ofn/falcom_games_mod_compendium_evolution_mods_hd/?utm_source=share&utm_medium=web2x&context=3) - If you want to post some feedback. <br>
 
 Emoji Description: <br>
 🔧 - Installation Instructions. If not provided then the mod likely has instructions on its mod page. <br>
