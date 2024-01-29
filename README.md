@@ -14,7 +14,7 @@ Adds full Japanese voice acting to the game which was back ported from official 
 **OR** <br>
 
 >Manual Install: [SoraVoice(Lite)](https://github.com/ZhenjianYang/SoraVoice/releases/tag/20230823) + [Voice Scripts](https://github.com/ZhenjianYang/SoraVoiceScripts/releases/) + [Voice Files](https://mega.nz/file/z9hkVTwa#D7iz6er2jcKiQdO5P81x0_4NtoGoihjO4CR242Vc_fo) <br>
-📝 [Installation instructions](https://github.com/ZhenjianYang/SoraVoice/tree/20230823) <br>
+📝 [Instructions](https://github.com/ZhenjianYang/SoraVoice/tree/20230823) <br>
 Since you already have the voice files, you can skip the first four steps in Voice Files part.
 
 <br>
@@ -22,6 +22,7 @@ Since you already have the voice files, you can skip the first four steps in Voi
 - [Japanese Battle Voices](https://mega.nz/file/7FI3FJ6S#7hciKJZEUreR5Gp-D_AeQAuEyCN51g7D18PE9nYDhew) <br>
 
 Adds Japanese battle voices to the game, this is meant to be used along side the Evolution Voices Mod as the game only supports English battle voices out of the box. After installation you'll be able to swith between English and Japanese voices in ingame Options menu. <br>
+📝 Extract contents of the archive into your game directory and replace files if asked.<br>
 
 <br>
 
