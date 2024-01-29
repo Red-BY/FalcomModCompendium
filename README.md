@@ -222,7 +222,7 @@ Adds PS Vita-exclusive quests from Evolution re-release to the PC version. <br>
 
 - [More Portraits in Zero](https://github.com/shinkiseki/MorePortraitsInZero) <br>
 
-Gives portraits to characters that didn't have them before. Portraits are sourced from various Trails games. <br>
+Gives portraits to characters that didn't have them before. Portraits are sourced from various Falcom games. <br>
 
 <br>
 
@@ -233,6 +233,24 @@ Replaces most music tracks with the ones from Evolution re-release. <br>
 <br>
 
 ### Trails to Azure *(Ao no Kiseki)*
+ [Azure Vitality](https://github.com/Kyuuhachi/Azure-Vitality) <br>
+
+Adds PS Vita-exclusive quests from Evolution re-release to the PC version. <br>
+
+<br>
+
+- [More Portraits in Azure](https://github.com/shinkiseki/MorePortraitsInAzure) <br>
+
+Gives portraits to characters that didn't have them before. Portraits are sourced from various Falcom games. <br>
+
+<br>
+
+- [Evolution Soundtrack](https://www.nexusmods.com/tlohtrailstoazure/mods/1) <br>
+
+Replaces most music tracks with the ones from Evolution re-release. <br>
+
+<br>
+
 ### Trails of Cold Steel *(Sen no Kiseki)*
 ### Trails of Cold Steel II *(Sen no Kiseki II)*
 ### Trails of Cold Steel III *(Sen no Kiseki III)*
