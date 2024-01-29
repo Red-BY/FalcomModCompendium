@@ -252,6 +252,18 @@ Replaces most music tracks with the ones from Evolution re-release. <br>
 <br>
 
 ### Trails of Cold Steel *(Sen no Kiseki)*
+- [SenPatcher](https://www.nexusmods.com/tlohtrailstoazure/mods/1) <br>
+
+A tool for Cold Steel games that patches them to fix numerous bugs and script issues, remove forced animation skip in Turbo mode and can do many other great things. Allows full customization so you can only install the feature that you want. Check the mod page for more details. <br>
+
+<br>
+
+- [HD Texture Pack](https://steamcommunity.com/app/538680/discussions/0/2579854400755735260/) <br>
+
+A fantastic Trails of Cold Steel texture pack that aims to improve UI, battle effects, and eye textures to bring it more in line with a modern PC game. <br>
+
+<br>
+
 ### Trails of Cold Steel II *(Sen no Kiseki II)*
 ### Trails of Cold Steel III *(Sen no Kiseki III)*
 ### Trails of Cold Steel IV *(Sen no Kiseki IV -THE END OF SAGA-)*
