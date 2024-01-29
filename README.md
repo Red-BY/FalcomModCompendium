@@ -323,3 +323,20 @@ Texture pack tahat includes HD environmental textures from Chinese Joyland port 
 Replaces most texture with higher resoluton AI upscales. <br>
 
 <br>
+
+### Ys VIII: Lacrimosa of Dana
+- [High Quality Music](https://www.nexusmods.com/ysviii/mods/24) <br>
+
+Fixes the infamous line that appears on Adol and Laxia's faces while using the HQ texture pack. <br>
+
+<br>
+
+- [High Quality Music](https://www.nexusmods.com/ysviii/mods/2) <br>
+
+Replaces the low-quality music files with CD-quality ones. <br>
+
+<br>
+
+- [Various miscellaneous mods on Nexus](https://www.nexusmods.com/ysviii) <br>
+
+### Ys IX: Monstrum Nox
