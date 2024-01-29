@@ -13,7 +13,7 @@ Adds full Japanese voice acting to the game which was back ported from official 
 
 > - [Automatic Installer](https://github.com/chyyran/skyinstaller) <br>
 > - Manual Install: [SoraVoice(Lite)](https://github.com/ZhenjianYang/SoraVoice/releases/tag/20230823) + [Voice Scripts](https://github.com/ZhenjianYang/SoraVoiceScripts/releases/) + [Voice Files](https://mega.nz/file/z9hkVTwa#D7iz6er2jcKiQdO5P81x0_4NtoGoihjO4CR242Vc_fo) <br>
-📝 [Full Instructions](https://github.com/ZhenjianYang/SoraVoice/tree/20230823). Since you already have the voice files, you can skip the first four steps in the Voice Files part. <br>
+🔧 [Full Instructions](https://github.com/ZhenjianYang/SoraVoice/tree/20230823). Since you already have the voice files, you can skip the first four steps in the Voice Files part. <br>
 
 <br>
 
@@ -21,7 +21,7 @@ Adds full Japanese voice acting to the game which was back ported from official 
 
 Adds Japanese battle voices to the game, this is meant to be used alongside the Evolution Voices Mod as the game only supports English battle voices out of the box. <br>
 After installation, you'll be able to switch between English and Japanese voices from the in-game Options menu. <br>
->📝 Extract contents of the archive into your game directory and replace when asked.<br>
+>🔧 Extract contents of the archive into your game directory and replace when asked.<br>
 
 <br>
 
@@ -31,40 +31,40 @@ Replaces character dialogue and battle portraits with the ones from Evolution re
 Note that Evolution portraits have less variety of expressions as they were cut down in the Evolution re-release which compensated for it with animated mouth and eye movements (This feature is exclusive to Evolution). <br>
 >[Visual Comparison](https://www.reddit.com/r/Falcom/comments/m21k28/couldnt_find_a_proper_sky_evolution_portrait/) <br>
 
->📝 First get the files from "BATTLE" and "DIALOGUE BOX" folders, then you'll have to rename each file by removing "EVO" from the end of the file name. After that copy the files into your game directory and replace when asked. <br>
+>🔧 First get the files from "BATTLE" and "DIALOGUE BOX" folders, then you'll have to rename each file by removing "EVO" from the end of the file name. After that copy the files into your game directory and replace when asked. <br>
 
 <br>
 
 - [Evolution Status Images](https://www.mediafire.com/folder/9u1smlshj97bp/STATUS_IMAGE_FC) <br>
 
 Replaces status images of characters in the main menu with the ones from Evolution re-release. <br>
->📝 Rename the downloaded files by removing "EVO" from the end of the file name then copy the files into your game directory and replace when asked. <br>
+>🔧 Rename the downloaded files by removing "EVO" from the end of the file name then copy the files into your game directory and replace when asked. <br>
 
 <br>
 
 - [Evolution Event Visuals](https://www.mediafire.com/folder/n5b4cqc3655sv/Event_Visual_FC) <br>
 
 Replaces event visuals that appear during certain story segments as well as the in-game world map with the ones from Evolution re-release. <br>
->📝 Rename the downloaded files by removing "EVO" from the end of the file name then copy the files into your game directory and replace when asked. <br>
+>🔧 Rename the downloaded files by removing "EVO" from the end of the file name then copy the files into your game directory and replace when asked. <br>
 
 <br>
 
 - [Evolution Movies](https://www.mediafire.com/folder/hp7tla4e9z7h4/FC_EVO_MOVIES) <br>
 
 Replaces intro logo, opening and ending cinematics with the ones from Evolution re-release. <br>
->📝 You can use the included .bat files to quickly install the mods. <br>
+>🔧 You can use the included .bat files to quickly install the mods. <br>
 Alternatively, rename the downloaded files by removing "EVO" from the end of the file name then copy the files into your game directory and replace when asked. <br>
 
 <br>
 
-- [Evolution Soundtrack]() <br>
+- [Evolution Soundtrack]() 🚫 <br>
 
 Replaces all music tracks with the ones from Evolution re-release. <br>
 After installation, you'll be able to switch between original and Evolution soundtracks from the in-game Options menu. <br>
 
 <br>
 
-- [Super Arrange Soundtrack]() <br>
+- [Super Arrange Soundtrack]() 🚫 <br>
 
 Replaces certain music tracks with the ones from Super Arrange albums of Trail in the Sky. <br>
 After installation, you'll be able to switch between original and Evolution soundtracks from the in-game Options menu. <br>
