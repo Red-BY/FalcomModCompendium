@@ -15,7 +15,9 @@ Adds full Japanese voice acting to the game which was back ported from official 
 Manual Install ( [SoraVoice(Lite)](https://github.com/ZhenjianYang/SoraVoice/releases/tag/20230823) + [Voice Scripts](https://github.com/ZhenjianYang/SoraVoiceScripts/releases/) + [Voice Files](https://mega.nz/file/z9hkVTwa#D7iz6er2jcKiQdO5P81x0_4NtoGoihjO4CR242Vc_fo) ) <br>
 
 - [Japanese Battle Voices](https://mega.nz/file/7FI3FJ6S#7hciKJZEUreR5Gp-D_AeQAuEyCN51g7D18PE9nYDhew) <br>
+
 Adds Japanese battle voices to the game, this is meant to be used along side the Evolution Voices Mod as the game only supports English battle voices out of the box. After installation you'll be able to swith between English and Japanese voices in ingame Options menu. <br>
+
 - 
 ### Trails in the Sky SC *(Sora no Kiseki SC)*
 ### Trails in the Sky the 3rd *(Sora no Kiseki the 3rd)*
