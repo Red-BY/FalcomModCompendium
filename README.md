@@ -1,7 +1,7 @@
 # Falcom Games Mod Compendium
 Compendium of modifications for Trails and Ys games. All mods listed are made for official English PC releases by XSEED and NISA. <br>
 
-Emoji Description:
+Emoji Description: <br>
 🔧 - Installation Instructions <br>
 🚫 - Mod file is unavailable at the moment. It could be because of copyright claim or other reasons. If you have access to those files, feel free to contact me so the lick can be repaired. <br>
 🚧 - Mod is work in progress <br>
