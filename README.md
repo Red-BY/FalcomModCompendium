@@ -233,7 +233,7 @@ Replaces most music tracks with the ones from Evolution re-release. <br>
 <br>
 
 ### Trails to Azure *(Ao no Kiseki)*
- [Azure Vitality](https://github.com/Kyuuhachi/Azure-Vitality) <br>
+- [Azure Vitality](https://github.com/Kyuuhachi/Azure-Vitality) <br>
 
 Adds PS Vita-exclusive quests from Evolution re-release to the PC version. <br>
 
