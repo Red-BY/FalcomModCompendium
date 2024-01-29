@@ -291,6 +291,10 @@ A tool for Cold Steel games that patches them to fix numerous bugs and script is
 
 <br>
 
+### Trails into Reverie *(Hajimari no Kiseki)*
+
+- [Various miscellaneous mods on Nexus](https://www.nexusmods.com/thelegendofheroestrailsintoreverie/mods/) <br>
+
 <br>
 <br>
 <br>
