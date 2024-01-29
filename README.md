@@ -17,4 +17,4 @@ Compendium of modifications for Trails and Ys games. All mods listed are made fo
 <br/>
 <br/>
 <br/>
-![Ys Logo](https://github.com/Red-BY/FalcomModCompendium/assets/158032133/05b7d197-47cc-4d28-b26f-4b0904d307f1)
+![Ys Logo](https://github.com/Red-BY/FalcomModCompendium/assets/158032133/3cf1d7aa-9cb4-4f01-950c-49f1340af488)
