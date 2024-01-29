@@ -73,7 +73,7 @@ After installation, you'll be able to switch between original and Evolution soun
 - [Super Arrange Soundtrack]() 🚫 <br>
 
 Replaces certain music tracks with the ones from Super Arrange albums of Trails in the Sky Soundtrack. <br>
-After installation, you'll be able to switch between original and Evolution soundtracks from the in-game Options menu. <br>
+After installation, you'll be able to switch between original and Super Arrange soundtracks from the in-game Options menu. <br>
 
 <br>
 
@@ -144,7 +144,7 @@ After installation, you'll be able to switch between original and Evolution soun
 - [Super Arrange Soundtrack]() 🚫 <br>
 
 Replaces certain music tracks with the ones from Super Arrange albums of Trails in the Sky Soundtrack. <br>
-After installation, you'll be able to switch between original and Evolution soundtracks from the in-game Options menu. <br>
+After installation, you'll be able to switch between original and Super Arrange soundtracks from the in-game Options menu. <br>
 
 <br>
 
@@ -209,7 +209,7 @@ After installation, you'll be able to switch between original and Evolution soun
 - [Super Arrange Soundtrack]() 🚫 <br>
 
 Replaces certain music tracks with the ones from Super Arrange albums of Trails in the Sky Soundtrack. <br>
-After installation, you'll be able to switch between original and Evolution soundtracks from the in-game Options menu. <br>
+After installation, you'll be able to switch between original and Super Arrange soundtracks from the in-game Options menu. <br>
 
 <br>
 
@@ -222,7 +222,7 @@ Adds PS Vita-exclusive quests from Evolution re-release to the PC version. <br>
 
 - [More Portraits in Zero](https://github.com/shinkiseki/MorePortraitsInZero) <br>
 
-Gives portraits to characters that didn't have them before. Portraits are sourced from various Falcom games. <br>
+Gives portraits to characters that didn't have them before. Most portraits are sourced from various Falcom games and some are fan-made. Also has an option to replace some default portraits with higher-resolution versions. <br>
 
 <br>
 
@@ -241,7 +241,7 @@ Adds PS Vita-exclusive quests from Evolution re-release to the PC version. <br>
 
 - [More Portraits in Azure](https://github.com/shinkiseki/MorePortraitsInAzure) <br>
 
-Gives portraits to characters that didn't have them before. Portraits are sourced from various Falcom games. <br>
+Gives portraits to characters that didn't have them before. Most portraits are sourced from various Falcom games and some are fan-made. Also has an option to replace some default portraits with higher-resolution versions. <br>
 
 <br>
 
@@ -311,7 +311,7 @@ Replaces English voice acting with original Japanese. <br>
 - [Japanese Battle Voices (UNDUB)](https://mega.nz/file/io0iGbpb#lTYSPku0n_5R5f2SD18NUlHGvfjuhDYRg1TUsHD7nOk) <br>
 
 Replaces English voices with original Japanese. <br>
->🔧 Put the .wav files into the se folder in your game directory and overwrite when asked. <br>
+>🔧 Put the .wav files into the 'se' folder in your game directory and overwrite when asked. <br>
 
 <br>
 
@@ -324,7 +324,7 @@ Texture pack that includes HD environmental textures from Chinese Joyland port o
 ### Ys: Memories of Celceta
 - [HD Texture Pack](https://www.nexusmods.com/ysmemoriesofcelceta/mods/1) <br>
 
-Replaces most texture with higher resoluton AI upscales. <br>
+Replaces most textures with higher resoluton AI upscales. <br>
 
 <br>
 
