@@ -3,9 +3,9 @@ Compendium of modifications for Trails and Ys games developed by Nihon Falcom. A
 > Reddit Thread - If you want to post some feedback. <br>
 
 Emoji Description: <br>
-🔧 - Installation Instructions <br>
+🔧 - Installation Instructions. If not provided then the mod likely has instructions on its mod page. <br>
 🚫 - Mod file is unavailable at the moment. It could be because of copyright claim or other reasons. If you have access to those files, feel free to contact me so the lick can be repaired. <br>
-🚧 - Mod is work in progress <br>
+🚧 - Mod is still work in progress. <br>
 
 <br>
 <br>
