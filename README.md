@@ -1,5 +1,5 @@
 # Falcom Games Mod Compendium
-Compendium of modifications for Trails and Ys games. All mods listed are made for official English PC releases by XSEED and NISA. <br>
+Compendium of modifications for Trails and Ys games developed by Nihon Falcom. All mods listed are made for official English PC releases by XSEED and NISA. <br>
 > Reddit Thread - If you want to post some feedback. <br>
 
 Emoji Description: <br>
