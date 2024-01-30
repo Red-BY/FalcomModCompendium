@@ -88,7 +88,7 @@ A fan project which aims to add full English voice acting to the game. <br>
 - [Japanese Text](https://www.reddit.com/r/Falcom/comments/8uqs8q/instructions_on_how_to_apply_japanese_script_in/?utm_source=share&utm_medium=web2x&context=3)
 
 Inserts original Japanese script into XSEED version of the game. <br>
-Note that it's not fully compatible with Evolution Voices mod. <br>
+Note that it's not fully compatible with Evolution Voices mod out of the box. <br>
 
 <br>
 
@@ -166,7 +166,7 @@ Buffs Josette to make her more useful in combat, also contains some minor balanc
 - [Japanese Text](https://www.reddit.com/r/Falcom/comments/8uqs8q/instructions_on_how_to_apply_japanese_script_in/?utm_source=share&utm_medium=web2x&context=3)
 
 Inserts original Japanese script into XSEED version of the game. <br>
-Note that it's not fully compatible with Evolution Voices mod. <br>
+Note that it's not fully compatible with Evolution Voices mod out of the box. <br>
 
 <br>
 
