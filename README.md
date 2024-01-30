@@ -15,7 +15,7 @@ Emoticon Description: <br>
 
 ## ![Trails Logo](https://github.com/Red-BY/FalcomModCompendium/blob/main/Trails%20Logo.png)
 ### Trails in the Sky FC *(Sora no Kiseki FC)*
-- Evolution Voices <br>
+- **Evolution Voices** <br>
 
 Adds full Japanese voice acting to the game which was back ported from official Evolution re-release for PlayStation Vita. <br>
 
@@ -93,7 +93,7 @@ Note that it's not fully compatible with Evolution Voices mod out of the box. <b
 <br>
 
 ### Trails in the Sky SC *(Sora no Kiseki SC)*
-- Evolution Voices <br>
+- **Evolution Voices** <br>
 
 Adds full Japanese voice acting to the game which was back ported from official Evolution re-release for PlayStation Vita. <br>
 
@@ -171,7 +171,7 @@ Note that it's not fully compatible with Evolution Voices mod out of the box. <b
 <br>
 
 ### Trails in the Sky the 3rd *(Sora no Kiseki the 3rd)*
-- Evolution Voices <br>
+- **Evolution Voices** <br>
 
 Adds full Japanese voice acting to the game which was back ported from official Evolution re-release for PlayStation Vita. <br>
 
