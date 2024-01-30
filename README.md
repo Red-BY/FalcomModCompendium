@@ -290,7 +290,9 @@ An extensive difficulty mod, designed to be used on Nightmare difficulty. <br>
 
 <br>
 
-- [Various other mods on Trails Modding Discord](https://discord.gg/wYkWS33NQt) <br>
+- [Various mods on Trails Modding Discord](https://discord.gg/wYkWS33NQt) <br>
+
+Offers a large assortment of mods. Mainly gameplay and balance mods as well as some cosmetic mods.  <br>
 
 <br>
 
@@ -313,7 +315,9 @@ An extensive difficulty mod, designed to be used on Nightmare difficulty. <br>
 
 <br>
 
-- [Various other mods on Trails Modding Discord](https://discord.gg/wYkWS33NQt) <br>
+- [Various mods on Trails Modding Discord](https://discord.gg/wYkWS33NQt) <br>
+
+Offers a large assortment of mods. Mainly gameplay and balance mods as well as some cosmetic mods.  <br>
 
 <br>
 
@@ -330,7 +334,9 @@ An extensive difficulty mod, designed to be used on Nightmare difficulty. <br>
 
 <br>
 
-- [Various other mods on Trails Modding Discord](https://discord.gg/wYkWS33NQt) <br>
+- [Various mods on Trails Modding Discord](https://discord.gg/wYkWS33NQt) <br>
+
+Offers a large assortment of mods. Mainly gameplay and balance mods as well as some cosmetic mods.  <br>
 
 <br>
 
@@ -347,7 +353,9 @@ An extensive difficulty mod, designed to be used on Nightmare difficulty. <br>
 
 <br>
 
-- [Various other mods on Trails Modding Discord](https://discord.gg/wYkWS33NQt) <br>
+- [Various mods on Trails Modding Discord](https://discord.gg/wYkWS33NQt) <br>
+
+Offers a large assortment of mods. Mainly gameplay and balance mods as well as some cosmetic mods.  <br>
 
 <br>
 
@@ -357,7 +365,11 @@ An extensive difficulty mod, designed to be used on Nightmare difficulty. <br>
 
 <br>
 
-- [Various miscellaneous mods on Nexus](https://www.nexusmods.com/thelegendofheroestrailsintoreverie/mods/) <br>
+- [Various mods on Trails Modding Discord](https://discord.gg/wYkWS33NQt) <br>
+
+Offers a large assortment of mods. Mainly gameplay and balance mods as well as some cosmetic mods.  <br>
+
+<br>
 
 <br>
 <br>
