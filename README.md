@@ -150,6 +150,12 @@ After installation, you'll be able to switch between original and Super Arrange 
 
 <br>
 
+- [Josette Rebalance](https://www.reddit.com/r/Falcom/comments/qtgh3z/mod_josette_rebalance_other_small_things/) <br>
+
+Buffs Josette to make her more useful in combat, also contains some minor balance tweaks for other characters.  <br>
+
+<br>
+
 ### Trails in the Sky the 3rd *(Sora no Kiseki the 3rd)*
 - Evolution Voices <br>
 
@@ -212,6 +218,12 @@ After installation, you'll be able to switch between original and Evolution soun
 
 Replaces certain music tracks with the ones from Super Arrange albums of Trails in the Sky Soundtrack. <br>
 After installation, you'll be able to switch between original and Super Arrange soundtracks from the in-game Options menu. <br>
+
+<br>
+
+- [Josette Rebalance](https://www.reddit.com/r/Falcom/comments/qtgh3z/mod_josette_rebalance_other_small_things/) <br>
+
+Buffs Josette to make her more useful in combat, also contains some minor balance tweaks for other characters. <br>
 
 <br>
 
