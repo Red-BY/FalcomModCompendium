@@ -246,6 +246,12 @@ Replaces most music tracks with the ones from Evolution re-release. <br>
 
 <br>
 
+- [Difficulty Mod](https://www.reddit.com/r/Falcom/comments/y55sx6/trails_from_zero_difficulty_mod_official_rerelease/) <br>
+
+An extensive difficulty mod, designed to be used on Nightmare difficulty. <br>
+
+<br>
+
 ### Trails to Azure *(Ao no Kiseki)*
 - [Azure Vitality](https://github.com/Kyuuhachi/Azure-Vitality) <br>
 
@@ -278,6 +284,12 @@ A fantastic Trails of Cold Steel texture pack that aims to improve UI, battle ef
 
 <br>
 
+- [Difficulty Mod](https://www.reddit.com/r/Falcom/comments/c0o756/cs1_difficulty_pack_v12/) <br>
+
+An extensive difficulty mod, designed to be used on Nightmare difficulty. <br>
+
+<br>
+
 ### Trails of Cold Steel II *(Sen no Kiseki II)*
 - [SenPatcher](https://github.com/AdmiralCurtiss/SenPatcher) <br>
 
@@ -291,6 +303,12 @@ A fantastic Trails of Cold Steel II texture pack that aims to improve UI, battle
 
 <br>
 
+- [Difficulty Mod](https://steamcommunity.com/app/748490/discussions/0/1696045708664951845/) <br>
+
+An extensive difficulty mod, designed to be used on Nightmare difficulty. <br>
+
+<br>
+
 ### Trails of Cold Steel III *(Sen no Kiseki III)*
 - [SenPatcher](https://github.com/AdmiralCurtiss/SenPatcher) <br>
 
@@ -298,10 +316,22 @@ A tool for Cold Steel games that patches them to fix numerous bugs and script is
 
 <br>
 
+- [Difficulty Mod](https://www.reddit.com/r/Falcom/comments/gu5no5/trails_of_cold_steel_3_difficulty_mod_v_10_release/) <br>
+
+An extensive difficulty mod, designed to be used on Nightmare difficulty. <br>
+
+<br>
+
 ### Trails of Cold Steel IV *(Sen no Kiseki IV -THE END OF SAGA-)*
 - [SenPatcher](https://github.com/AdmiralCurtiss/SenPatcher) <br>
 
 A tool for Cold Steel games that patches them to fix numerous bugs and script issues, remove forced animation skip in Turbo mode and can do many other great things. Allows full customization so you can only install features that you want. Check the mod page to see the full feature set. <br>
+
+<br>
+
+- [Twilight Rebalance](https://www.reddit.com/r/Falcom/comments/qnlowv/cs4_twilight_rebalance_a_difficultybalance_mod/) <br>
+
+An extensive difficulty mod, designed to be used on Nightmare difficulty. <br>
 
 <br>
 
