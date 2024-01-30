@@ -290,6 +290,10 @@ An extensive difficulty mod, designed to be used on Nightmare difficulty. <br>
 
 <br>
 
+- [Various other mods on Trails Modding Discord](https://discord.gg/wYkWS33NQt) <br>
+
+<br>
+
 ### Trails of Cold Steel II *(Sen no Kiseki II)*
 - [SenPatcher](https://github.com/AdmiralCurtiss/SenPatcher) <br>
 
@@ -309,6 +313,10 @@ An extensive difficulty mod, designed to be used on Nightmare difficulty. <br>
 
 <br>
 
+- [Various other mods on Trails Modding Discord](https://discord.gg/wYkWS33NQt) <br>
+
+<br>
+
 ### Trails of Cold Steel III *(Sen no Kiseki III)*
 - [SenPatcher](https://github.com/AdmiralCurtiss/SenPatcher) <br>
 
@@ -319,6 +327,10 @@ A tool for Cold Steel games that patches them to fix numerous bugs and script is
 - [Difficulty Mod](https://www.reddit.com/r/Falcom/comments/gu5no5/trails_of_cold_steel_3_difficulty_mod_v_10_release/) <br>
 
 An extensive difficulty mod, designed to be used on Nightmare difficulty. <br>
+
+<br>
+
+- [Various other mods on Trails Modding Discord](https://discord.gg/wYkWS33NQt) <br>
 
 <br>
 
@@ -335,7 +347,15 @@ An extensive difficulty mod, designed to be used on Nightmare difficulty. <br>
 
 <br>
 
+- [Various other mods on Trails Modding Discord](https://discord.gg/wYkWS33NQt) <br>
+
+<br>
+
 ### Trails into Reverie *(Hajimari no Kiseki)*
+
+- [Various mods on Trails Modding Discord](https://discord.gg/wYkWS33NQt) <br>
+
+<br>
 
 - [Various miscellaneous mods on Nexus](https://www.nexusmods.com/thelegendofheroestrailsintoreverie/mods/) <br>
 
