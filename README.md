@@ -382,7 +382,7 @@ Offers a large assortment of mods. Mainly gameplay and balance mods as well as s
 
 ### Trails into Reverie *(Hajimari no Kiseki)*
 
-- [Various mods on Trails Modding Discord](https://discord.gg/wYkWS33NQt) <br>
+- [Various mods on Nexus](https://www.nexusmods.com/thelegendofheroestrailsintoreverie/mods/) <br>
 
 <br>
 
