@@ -85,6 +85,13 @@ A fan project which aims to add full English voice acting to the game. <br>
 
 <br>
 
+- [Japanese Text](https://www.reddit.com/r/Falcom/comments/8uqs8q/instructions_on_how_to_apply_japanese_script_in/?utm_source=share&utm_medium=web2x&context=3)
+
+Inserts original Japanese script into XSEED version of the game. <br>
+Note that it's not fully compatible with Evolution Voices mod. <br>
+
+<br>
+
 ### Trails in the Sky SC *(Sora no Kiseki SC)*
 - Evolution Voices <br>
 
@@ -156,6 +163,13 @@ Buffs Josette to make her more useful in combat, also contains some minor balanc
 
 <br>
 
+- [Japanese Text](https://www.reddit.com/r/Falcom/comments/8uqs8q/instructions_on_how_to_apply_japanese_script_in/?utm_source=share&utm_medium=web2x&context=3)
+
+Inserts original Japanese script into XSEED version of the game. <br>
+Note that it's not fully compatible with Evolution Voices mod. <br>
+
+<br>
+
 ### Trails in the Sky the 3rd *(Sora no Kiseki the 3rd)*
 - Evolution Voices <br>
 
@@ -224,6 +238,13 @@ After installation, you'll be able to switch between original and Super Arrange 
 - [Josette Rebalance](https://www.reddit.com/r/Falcom/comments/qtgh3z/mod_josette_rebalance_other_small_things/) <br>
 
 Buffs Josette to make her more useful in combat, also contains some minor balance tweaks for other characters. <br>
+
+<br>
+
+- [Japanese Text](https://www.reddit.com/r/Falcom/comments/8uqs8q/instructions_on_how_to_apply_japanese_script_in/?utm_source=share&utm_medium=web2x&context=3)
+
+Inserts original Japanese script into XSEED version of the game. <br>
+Note that it's not fully compatible with Evolution Voices mod. <br>
 
 <br>
 
