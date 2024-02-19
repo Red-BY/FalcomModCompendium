@@ -46,7 +46,7 @@ Note that Evolution portraits have less variety of expressions as they were cut 
 - [Evolution Status Images](https://www.mediafire.com/folder/9u1smlshj97bp/STATUS_IMAGE_FC) <br>
 
 Replaces status images of characters in the main menu with the ones from Evolution re-release. <br>
->🔧 Rename each downloaded file by removing "EVO" from the end of the file name then copy the files into your game directory and overwrite when asked. <br>
+>🔧 Rename each downloaded file by removing "FCEVO" from the end of the file name then copy the files into your game directory and overwrite when asked. <br>
 
 <br>
 
@@ -124,7 +124,7 @@ Note that Evolution portraits have less variety of expressions as they were cut 
 - [Evolution Status Images](https://www.mediafire.com/folder/l9b263b82x3n4/STATUS_IMAGE_SC) <br>
 
 Replaces status images of characters in the main menu with the ones from Evolution re-release. <br>
->🔧 Rename each downloaded file by removing "EVO" from the end of the file name then copy the files into your game directory and overwrite when asked. <br>
+>🔧 Rename each downloaded file by removing "SCEVO" from the end of the file name then copy the files into your game directory and overwrite when asked. <br>
 
 <br>
 
@@ -202,7 +202,7 @@ Note that Evolution portraits have less variety of expressions as they were cut 
 - [Evolution Status Images](https://www.mediafire.com/folder/b6qn3gf8fs26m/STATUS_IMAGE_TC) <br>
 
 Replaces status images of characters in the main menu with the ones from Evolution re-release. <br>
->🔧 Rename each downloaded file by removing "EVO" from the end of the file name then copy the files into your game directory and overwrite when asked. <br>
+>🔧 Rename each downloaded file by removing "TCEVO" from the end of the file name then copy the files into your game directory and overwrite when asked. <br>
 
 <br>
 
