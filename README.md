@@ -305,16 +305,15 @@ A fantastic Trails of Cold Steel texture pack that aims to improve UI, battle ef
 
 <br>
 
-- [Difficulty Mod](https://www.reddit.com/r/Falcom/comments/c0o756/cs1_difficulty_pack_v12/) <br>
-
-An extensive difficulty mod, designed to be used on Nightmare difficulty. <br>
-
-<br>
-
-
 - [Menu Edits](https://steamcommunity.com/app/538680/discussions/0/3115920924819767678/) <br>
 
 Make the menus more consistent with the ones found in later Cold Steel games. <br>
+
+<br>
+
+- [Difficulty Mod](https://www.reddit.com/r/Falcom/comments/c0o756/cs1_difficulty_pack_v12/) <br>
+
+An extensive difficulty mod, designed to be used on Nightmare difficulty. <br>
 
 <br>
 
