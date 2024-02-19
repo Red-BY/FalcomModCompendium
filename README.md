@@ -314,7 +314,7 @@ An extensive difficulty mod, designed to be used on Nightmare difficulty. <br>
 
 - [Menu Edits](https://steamcommunity.com/app/538680/discussions/0/3115920924819767678/) <br>
 
-Make the menus more consistent with the ones found in its sequels. <br>
+Make the menus more consistent with the ones found in later Cold Steel games. <br>
 
 <br>
 
