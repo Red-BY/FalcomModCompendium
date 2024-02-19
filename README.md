@@ -307,7 +307,7 @@ A fantastic Trails of Cold Steel texture pack that aims to improve UI, battle ef
 
 - [Menu Edits](https://steamcommunity.com/app/538680/discussions/0/3115920924819767678/) <br>
 
-Make the menus more consistent with the ones found in later Cold Steel games. <br>
+Makes the menus more consistent with the ones found in later Cold Steel games. <br>
 
 <br>
 
