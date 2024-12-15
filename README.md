@@ -65,14 +65,14 @@ Alternatively, rename each downloaded .dat and .avi file by removing "EVO" from 
 
 <br>
 
-- [Evolution Soundtrack]() 🚫 <br>
+- [Evolution Soundtrack](https://drive.google.com/drive/folders/11QJ3A_hv3mf_xH09OgVsfLi66in9zDXo?usp=sharing) <br>
 
 Replaces all music tracks with the ones from Evolution re-release. <br>
 After installation, you'll be able to switch between original and Evolution soundtracks from the in-game Options menu. <br>
 
 <br>
 
-- [Super Arrange Soundtrack]() 🚫 <br>
+- [Super Arrange Soundtrack](https://drive.google.com/drive/folders/11QJ3A_hv3mf_xH09OgVsfLi66in9zDXo?usp=sharing) <br>
 
 Replaces certain music tracks with the ones from Super Arrange albums of Trails in the Sky Soundtrack. <br>
 After installation, you'll be able to switch between original and Super Arrange soundtracks from the in-game Options menu. <br>
@@ -143,14 +143,14 @@ Alternatively, rename each downloaded .dat and .avi file by removing "EVO" from 
 
 <br>
 
-- [Evolution Soundtrack]() 🚫 <br>
+- [Evolution Soundtrack](https://drive.google.com/drive/folders/1BProaFmLj4rVTCw4NS3DW_5RX8FaklLF?usp=sharing) <br>
 
 Replaces all music tracks with the ones from Evolution re-release. <br>
 After installation, you'll be able to switch between original and Evolution soundtracks from the in-game Options menu. <br>
 
 <br>
 
-- [Super Arrange Soundtrack]() 🚫 <br>
+- [Super Arrange Soundtrack](https://drive.google.com/drive/folders/1BProaFmLj4rVTCw4NS3DW_5RX8FaklLF?usp=sharing) <br>
 
 Replaces certain music tracks with the ones from Super Arrange albums of Trails in the Sky Soundtrack. <br>
 After installation, you'll be able to switch between original and Super Arrange soundtracks from the in-game Options menu. <br>
@@ -221,14 +221,14 @@ Alternatively, rename each downloaded .dat and .avi file by removing "EVO" from 
 
 <br>
 
-- [Evolution Soundtrack]() 🚫 <br>
+- [Evolution Soundtrack](https://drive.google.com/drive/folders/1O5BAleB43dnTC0GqPxoiSSAwNDNxEXDO?usp=sharing) <br>
 
 Replaces all music tracks with the ones from Evolution re-release. <br>
 After installation, you'll be able to switch between original and Evolution soundtracks from the in-game Options menu. <br>
 
 <br>
 
-- [Super Arrange Soundtrack]() 🚫 <br>
+- [Super Arrange Soundtrack](https://drive.google.com/drive/folders/1O5BAleB43dnTC0GqPxoiSSAwNDNxEXDO?usp=sharing) <br>
 
 Replaces certain music tracks with the ones from Super Arrange albums of Trails in the Sky Soundtrack. <br>
 After installation, you'll be able to switch between original and Super Arrange soundtracks from the in-game Options menu. <br>
