@@ -387,6 +387,11 @@ Offers a large assortment of mods. Mainly gameplay and balance mods as well as s
 <br>
 
 ### Trails into Reverie *(Hajimari no Kiseki)*
+- [SenPatcher](https://github.com/AdmiralCurtiss/SenPatcher) <br>
+
+A tool for Cold Steel games that patches them to fix numerous bugs and script issues, remove forced animation skip in Turbo mode and can do many other great things. Allows full customization so you can only install features that you want. Check the mod page to see the full feature set. <br>
+
+<br>
 
 - [Various mods on Nexus](https://www.nexusmods.com/thelegendofheroestrailsintoreverie/mods/) <br>
 
