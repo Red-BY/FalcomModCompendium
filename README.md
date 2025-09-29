@@ -451,7 +451,25 @@ Offers a large assortment of mods. Mainly gameplay and balance mods as well as s
 <br>
 <br>
 
+## Trails Remakes
+
+### Trails in the Sky 1st Chapter *(Trails in the Sky the 1st)*
+- [Various mods on Nexus](https://www.nexusmods.com/games/trailsintheskyfirstchapter) <br>
+
+<br>
+
+- [Various mods on Trails Modding Discord](https://discord.gg/wYkWS33NQt) <br>
+
+Offers a large assortment of mods. Mainly gameplay and balance mods as well as some cosmetic mods.  <br>
+
+<br>
+
+<br>
+<br>
+<br>
+
 ## ![Ys Logo](https://github.com/Red-BY/FalcomModCompendium/blob/main/Ys%20Logo.png)
+
 ### Ys: The Oath in Felghana
 - [Japanese Voices (UNDUB)](https://www.moddb.com/mods/ys-oath-in-felghana-japanese-dub) <br>
 
