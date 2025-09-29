@@ -419,6 +419,34 @@ Offers a large assortment of mods. Mainly gameplay and balance mods as well as s
 
 <br>
 
+### Trails through Daybreak *(Kuro no Kiseki)*
+- [Free Time and LGC Adjustments](https://www.nexusmods.com/thelegendofheorestrailsthroughdaybreak/mods/10) <br>
+
+Gives you enough free time to view all connect events in a single playthrough. <br>
+
+<br>
+
+- [Various mods on Nexus](https://www.nexusmods.com/games/thelegendofheorestrailsthroughdaybreak) <br>
+
+<br>
+
+- [Various mods on Trails Modding Discord](https://discord.gg/wYkWS33NQt) <br>
+
+Offers a large assortment of mods. Mainly gameplay and balance mods as well as some cosmetic mods.  <br>
+
+<br>
+
+### Trails through Daybreak II *(Kuro no Kiseki II Crimson Sin)*
+- [Various mods on Nexus](https://www.nexusmods.com/games/thelegendofheorestrailsthroughdaybreak2) <br>
+
+<br>
+
+- [Various mods on Trails Modding Discord](https://discord.gg/wYkWS33NQt) <br>
+
+Offers a large assortment of mods. Mainly gameplay and balance mods as well as some cosmetic mods.  <br>
+
+<br>
+
 <br>
 <br>
 <br>
