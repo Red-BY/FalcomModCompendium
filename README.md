@@ -292,6 +292,12 @@ Replaces most music tracks with the ones from Evolution re-release. <br>
 
 <br>
 
+- [Higher Quality SFX](https://www.nexusmods.com/tlohtrailstoazure/mods/3) <br>
+
+Replaces lower quality sound effect files with ones from Trail from Zero. <br>
+
+<br>
+
 ### Trails of Cold Steel *(Sen no Kiseki)*
 - [SenPatcher](https://github.com/AdmiralCurtiss/SenPatcher) <br>
 
