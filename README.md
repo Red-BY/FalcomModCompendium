@@ -14,6 +14,11 @@ Emoticon Description: <br>
 <br>
 
 ## ![Trails Logo](https://github.com/Red-BY/FalcomModCompendium/blob/main/Trails%20Logo.png)
+
+<br>
+
+## Liberl Arc
+
 ### Trails in the Sky FC *(Sora no Kiseki FC)*
 - **Evolution Voices** <br>
 
@@ -248,6 +253,8 @@ Note that it's not fully compatible with Evolution Voices mod. <br>
 
 <br>
 
+## Crossbell Arc
+
 ### Trails from Zero *(Zero no Kiseki)*
 - [Inevitable Zero](https://github.com/Kyuuhachi/Inevitable-Zero) <br>
 
@@ -297,6 +304,8 @@ Replaces most music tracks with the ones from Evolution re-release. <br>
 Replaces lower quality sound effect files with ones from Trail from Zero. <br>
 
 <br>
+
+## Erebonia Arc
 
 ### Trails of Cold Steel *(Sen no Kiseki)*
 - [SenPatcher](https://github.com/AdmiralCurtiss/SenPatcher) <br>
@@ -418,6 +427,8 @@ A tool for Cold Steel games that patches them to fix numerous bugs and script is
 Offers a large assortment of mods. Mainly gameplay and balance mods as well as some cosmetic mods.  <br>
 
 <br>
+
+## Calvard Arc
 
 ### Trails through Daybreak *(Kuro no Kiseki)*
 - [Free Time and LGC Adjustments](https://www.nexusmods.com/thelegendofheorestrailsthroughdaybreak/mods/10) <br>
