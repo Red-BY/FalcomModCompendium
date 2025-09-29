@@ -305,6 +305,12 @@ A fantastic Trails of Cold Steel texture pack that aims to improve UI, battle ef
 
 <br>
 
+- [4K Font](https://drive.google.com/file/d/1-WqbWFgjVTQn5HQlKHVDyIL5zfcWyRG1/view?usp=sharing) <br>
+
+Replaces main Cuprum font with higher resolution version from PC release of Trails from Zero and Trains to Azure. <br>
+
+<br>
+
 - [Menu Edits](https://steamcommunity.com/app/538680/discussions/0/3115920924819767678/) <br>
 
 Makes the menus more consistent with the ones found in later Cold Steel games. <br>
@@ -333,6 +339,10 @@ A tool for Cold Steel games that patches them to fix numerous bugs and script is
 - [HD Texture Pack](https://steamcommunity.com/app/748490/discussions/0/2860219962081641200/) <br>
 
 A fantastic Trails of Cold Steel II texture pack that aims to improve UI, battle effects, and eye textures to bring it more in line with a modern PC game. <br>
+
+- [4K Font](https://drive.google.com/file/d/1kgHT6HaJgr3o-OBdZnj1EZPqsD74XJqs/view?usp=sharing) <br>
+
+Replaces main Cuprum font with higher resolution version from PC release of Trails from Zero and Trains to Azure. <br>
 
 <br>
 
