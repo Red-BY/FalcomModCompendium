@@ -433,6 +433,13 @@ Gives you enough free time to view all connect events in a single playthrough. <
 <br>
 
 ### Trails through Daybreak II *(Kuro no Kiseki II Crimson Sin)*
+
+- [Free Time and LGC Adjustments](https://www.nexusmods.com/thelegendofheorestrailsthroughdaybreak2/mods/12) <br>
+
+Gives you enough free time to view all connect events in a single playthrough. <br>
+
+<br>
+
 - [Various mods on Nexus](https://www.nexusmods.com/games/thelegendofheorestrailsthroughdaybreak2) <br>
 
 <br>
@@ -444,6 +451,13 @@ Gives you enough free time to view all connect events in a single playthrough. <
 ## Trails Remakes
 
 ### Trails in the Sky 1st Chapter *(Trails in the Sky the 1st)*
+
+- [XSeed Localization Restoration](https://www.nexusmods.com/thelegendofheorestrailsthroughdaybreak/mods/10) <br>
+
+Fully replaces the english script with the one from the original Trails in the Sky FC release by XSeed. <br>
+
+<br>
+
 - [Various mods on Nexus](https://www.nexusmods.com/games/trailsintheskyfirstchapter) <br>
 
 <br>
@@ -496,6 +510,8 @@ Replaces the low-quality music files with CD-quality ones. <br>
 <br>
 
 - [Various miscellaneous mods on Nexus](https://www.nexusmods.com/ysviii) <br>
+
+<br>
 
 ### Ys IX: Monstrum Nox
 - [High Quality Music](https://www.nexusmods.com/ysix/mods/10) <br>
