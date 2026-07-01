@@ -301,7 +301,7 @@ Replaces most music tracks with the ones from Evolution re-release. <br>
 
 - [Higher Quality SFX](https://www.nexusmods.com/tlohtrailstoazure/mods/3) <br>
 
-Replaces lower quality sound effect files with ones from Trail from Zero. <br>
+Replaces lower quality sound effect files with ones from Trails from Zero. <br>
 
 <br>
 
@@ -345,12 +345,6 @@ An extensive difficulty mod, designed to be used on Nightmare difficulty. <br>
 
 <br>
 
-- [Various mods on Trails Modding Discord](https://discord.gg/wYkWS33NQt) <br>
-
-Offers a large assortment of mods. Mainly gameplay and balance mods as well as some cosmetic mods.  <br>
-
-<br>
-
 ### Trails of Cold Steel II *(Sen no Kiseki II)*
 - [SenPatcher](https://github.com/AdmiralCurtiss/SenPatcher) <br>
 
@@ -388,12 +382,6 @@ An extensive difficulty mod, designed to be used on Nightmare difficulty. <br>
 
 <br>
 
-- [Various mods on Trails Modding Discord](https://discord.gg/wYkWS33NQt) <br>
-
-Offers a large assortment of mods. Mainly gameplay and balance mods as well as some cosmetic mods.  <br>
-
-<br>
-
 ### Trails of Cold Steel III *(Sen no Kiseki III)*
 - [SenPatcher](https://github.com/AdmiralCurtiss/SenPatcher) <br>
 
@@ -404,12 +392,6 @@ A tool for Cold Steel games that patches them to fix numerous bugs and script is
 - [Difficulty Mod](https://www.reddit.com/r/Falcom/comments/gu5no5/trails_of_cold_steel_3_difficulty_mod_v_10_release/) <br>
 
 An extensive difficulty mod, designed to be used on Nightmare difficulty. <br>
-
-<br>
-
-- [Various mods on Trails Modding Discord](https://discord.gg/wYkWS33NQt) <br>
-
-Offers a large assortment of mods. Mainly gameplay and balance mods as well as some cosmetic mods.  <br>
 
 <br>
 
@@ -426,12 +408,6 @@ An extensive difficulty mod, designed to be used on Nightmare difficulty. <br>
 
 <br>
 
-- [Various mods on Trails Modding Discord](https://discord.gg/wYkWS33NQt) <br>
-
-Offers a large assortment of mods. Mainly gameplay and balance mods as well as some cosmetic mods.  <br>
-
-<br>
-
 ### Trails into Reverie *(Hajimari no Kiseki)*
 - [SenPatcher](https://github.com/AdmiralCurtiss/SenPatcher) <br>
 
@@ -440,12 +416,6 @@ A tool for Cold Steel games that patches them to fix numerous bugs and script is
 <br>
 
 - [Various mods on Nexus](https://www.nexusmods.com/thelegendofheroestrailsintoreverie/mods/) <br>
-
-<br>
-
-- [Various mods on Trails Modding Discord](https://discord.gg/wYkWS33NQt) <br>
-
-Offers a large assortment of mods. Mainly gameplay and balance mods as well as some cosmetic mods.  <br>
 
 <br>
 
@@ -462,20 +432,8 @@ Gives you enough free time to view all connect events in a single playthrough. <
 
 <br>
 
-- [Various mods on Trails Modding Discord](https://discord.gg/wYkWS33NQt) <br>
-
-Offers a large assortment of mods. Mainly gameplay and balance mods as well as some cosmetic mods.  <br>
-
-<br>
-
 ### Trails through Daybreak II *(Kuro no Kiseki II Crimson Sin)*
 - [Various mods on Nexus](https://www.nexusmods.com/games/thelegendofheorestrailsthroughdaybreak2) <br>
-
-<br>
-
-- [Various mods on Trails Modding Discord](https://discord.gg/wYkWS33NQt) <br>
-
-Offers a large assortment of mods. Mainly gameplay and balance mods as well as some cosmetic mods.  <br>
 
 <br>
 
@@ -487,12 +445,6 @@ Offers a large assortment of mods. Mainly gameplay and balance mods as well as s
 
 ### Trails in the Sky 1st Chapter *(Trails in the Sky the 1st)*
 - [Various mods on Nexus](https://www.nexusmods.com/games/trailsintheskyfirstchapter) <br>
-
-<br>
-
-- [Various mods on Trails Modding Discord](https://discord.gg/wYkWS33NQt) <br>
-
-Offers a large assortment of mods. Mainly gameplay and balance mods as well as some cosmetic mods.  <br>
 
 <br>
 
@@ -559,3 +511,16 @@ Remixes the soundtrack to match older Ys games by introducing several new songs 
 <br>
 
 - [Various miscellaneous mods on Nexus](https://www.nexusmods.com/ysix) <br>
+
+<br>
+
+<br>
+
+### Extra
+
+- [Various mods on Trails Modding Discord](https://discord.gg/wYkWS33NQt) <br>
+
+Offers a large assortment of mods. <br>
+Because of the nature of Discord, those can't be linked directly so you'll need to join the server to browse them. <br>
+
+<br>
