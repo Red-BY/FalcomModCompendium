@@ -329,7 +329,7 @@ A fantastic Trails of Cold Steel texture pack that aims to improve UI, battle ef
 
 - [4K Font](https://drive.google.com/file/d/1-WqbWFgjVTQn5HQlKHVDyIL5zfcWyRG1/view?usp=sharing) <br>
 
-Replaces main Cuprum font with higher resolution version from PC release of Trails from Zero and Trains to Azure. <br>
+Replaces main Cuprum font with higher resolution version from PC release of Trails from Zero and Trails to Azure. <br>
 
 <br>
 
@@ -372,7 +372,7 @@ A fantastic Trails of Cold Steel II texture pack that aims to improve UI, battle
 
 - [4K Font](https://drive.google.com/file/d/1kgHT6HaJgr3o-OBdZnj1EZPqsD74XJqs/view?usp=sharing) <br>
 
-Replaces main Cuprum font with higher resolution version from PC release of Trails from Zero and Trains to Azure. <br>
+Replaces main Cuprum font with higher resolution version from PC release of Trails from Zero and Trails to Azure. <br>
 
 <br>
 
@@ -444,6 +444,18 @@ Gives you enough free time to view all connect events in a single playthrough. <
 
 <br>
 
+### Trails Beyond the Horizon *(Kai no Kiseki -Farewell, O Zemuria-)*
+
+- [Vanilla Plus Improved Graphics](https://www.nexusmods.com/thelegendofheroestrailsbeyondthehorizon/mods/36) <br>
+
+Shader modification that improves various graphical effects. <br>
+
+<br>
+
+- [Various mods on Nexus](https://www.nexusmods.com/games/thelegendofheroestrailsbeyondthehorizon) <br>
+
+<br>
+
 <br>
 <br>
 <br>
@@ -452,9 +464,15 @@ Gives you enough free time to view all connect events in a single playthrough. <
 
 ### Trails in the Sky 1st Chapter *(Trails in the Sky the 1st)*
 
-- [XSeed Localization Restoration](https://www.nexusmods.com/thelegendofheorestrailsthroughdaybreak/mods/10) <br>
+- [XSeed Localization Restoration](https://www.nexusmods.com/trailsintheskyfirstchapter/mods/52) <br>
 
 Fully replaces the english script with the one from the original Trails in the Sky FC release by XSeed. <br>
+
+<br>
+
+- [Vanilla Plus Improved Graphics](https://www.nexusmods.com/trailsintheskyfirstchapter/mods/65) <br>
+
+Shader modification that improves various graphical effects. <br>
 
 <br>
 
