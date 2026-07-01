@@ -314,6 +314,13 @@ A tool for Cold Steel games that patches them to fix numerous bugs and script is
 
 <br>
 
+- [Basically Extra Social Time (B.E.S.T.)](https://github.com/TheShufflingFool/Basically-Extra-Social-Time) <br>
+
+Modifies the amount of bonding points available to ensure that you can view all bonding events on your first playthrough. <br>
+(Normally, this feature is only available in New Game+.) <br>
+
+<br>
+
 - [HD Texture Pack](https://steamcommunity.com/app/538680/discussions/0/2579854400755735260/) <br>
 
 A fantastic Trails of Cold Steel texture pack that aims to improve UI, battle effects, and eye textures to bring it more in line with a modern PC game. <br>
@@ -348,6 +355,20 @@ Offers a large assortment of mods. Mainly gameplay and balance mods as well as s
 - [SenPatcher](https://github.com/AdmiralCurtiss/SenPatcher) <br>
 
 A tool for Cold Steel games that patches them to fix numerous bugs and script issues, remove forced animation skip in Turbo mode and can do many other great things. Allows full customization so you can only install features that you want. Check the mod page to see the full feature set. <br>
+
+<br>
+
+- [Basically Extra Social Time (B.E.S.T.)](https://github.com/TheShufflingFool/Basically-Extra-Social-Time) <br>
+
+Modifies the amount of bonding points available to ensure that you can view all bonding events on your first playthrough. <br>
+(Normally, this feature is only available in New Game+.) <br>
+
+<br>
+
+- [Black Records Unrestricted Hunt (B.R.U.H.)](https://github.com/TheShufflingFool/Black-Records-Unrestricted-Hunt) <br>
+
+Enables New Game+ exclusive content on your first playthrough. <br>
+(This content is canon and will be relevant in Cold Steel III.) <br>
 
 <br>
 
